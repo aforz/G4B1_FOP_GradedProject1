@@ -1,10 +1,10 @@
-package com.g4b1.main;
+package gl.g4b1.main;
 
-import com.g4b1.departments.admin.AdminDepartment;
-import com.g4b1.departments.hr.HrDepartment;
-import com.g4b1.departments.tech.TechDepartment;
+import gl.g4b1.departments.admin.AdminDepartment;
+import gl.g4b1.departments.hr.HrDepartment;
+import gl.g4b1.departments.tech.TechDepartment;
 
-public class DriverClass {
+public class Main {
     public static void main(String[] args) {
         HrDepartment hrDepartment = new HrDepartment();
         TechDepartment techDepartment = new TechDepartment();

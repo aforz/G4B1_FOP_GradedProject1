@@ -1,4 +1,4 @@
-package com.g4b1.departments.super1;
+package gl.g4b1.departments.super1;
 
 public class SuperDepartment {
 

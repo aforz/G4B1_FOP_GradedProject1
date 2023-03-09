@@ -1,6 +1,6 @@
-package com.g4b1.departments.admin;
+package gl.g4b1.departments.admin;
 
-import com.g4b1.departments.super1.SuperDepartment;
+import gl.g4b1.departments.super1.SuperDepartment;
 
 public class AdminDepartment extends SuperDepartment {
 

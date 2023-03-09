@@ -1,6 +1,6 @@
-package com.g4b1.departments.tech;
+package gl.g4b1.departments.tech;
 
-import com.g4b1.departments.super1.SuperDepartment;
+import gl.g4b1.departments.super1.SuperDepartment;
 
 public class TechDepartment extends SuperDepartment {
 
