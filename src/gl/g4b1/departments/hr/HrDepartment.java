@@ -5,7 +5,7 @@ import gl.g4b1.departments.super1.SuperDepartment;
 public class HrDepartment extends SuperDepartment {
 
     public String departmentName() {
-        return "Hr Department";
+        return "HR Department";
     }
 
     public String getTodaysWork() {
