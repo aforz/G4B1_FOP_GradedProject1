@@ -1,6 +1,4 @@
-package gl.g4b1.departments.hr;
-
-import gl.g4b1.departments.super1.SuperDepartment;
+package gl.g4b1.departments;
 
 public class HrDepartment extends SuperDepartment {
 

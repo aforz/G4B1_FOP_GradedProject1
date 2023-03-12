@@ -1,8 +1,8 @@
 package gl.g4b1.main;
 
-import gl.g4b1.departments.admin.AdminDepartment;
-import gl.g4b1.departments.hr.HrDepartment;
-import gl.g4b1.departments.tech.TechDepartment;
+import gl.g4b1.departments.AdminDepartment;
+import gl.g4b1.departments.HrDepartment;
+import gl.g4b1.departments.TechDepartment;
 
 public class Main {
     public static void main(String[] args) {
