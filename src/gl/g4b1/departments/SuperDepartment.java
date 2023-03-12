@@ -1,7 +1,5 @@
 package gl.g4b1.departments;
 
-//super is a keyword so that we can not use this name for naming convention for variable, method, package, etc names.
-// it has been kept super1.
 public class SuperDepartment {
 
     public String departmentName() {
